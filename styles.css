@@ -1,0 +1,15 @@
+body { 
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#GRIDCONTAINER { 
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    height: 480px;
+    
+}
